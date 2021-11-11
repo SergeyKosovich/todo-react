@@ -1,3 +1,23 @@
+.todo_input {
+  border-radius: 2px;
+  border: 1px;
+  margin-right: 5px;
+  background-color: transparent;
+}
+.todo_wrapper {
+  margin-bottom: 5px;
+}
 .h2_todo_list {
   text-align: center;
+}
+.edit_button {
+  width: 40px;
+  border: 1px;
+  border-radius: 2px;
+}
+.delete_button {
+  margin-right: 5px;
+  border: 1px;
+  border-radius: 2px;
+  background-color: rgb(243, 179, 179);
 }
