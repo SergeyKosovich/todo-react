@@ -1,0 +1,15 @@
+.add_todo_h2 {
+  text-align: center;
+  user-select: none;
+}
+.add_todo_input {
+  border-radius: 2px;
+  border: 1px;
+  margin-right: 5px;
+}
+.add_todo_button {
+  border-radius: 2px;
+  border: 1px;
+  cursor: pointer;
+  user-select: none;
+}
