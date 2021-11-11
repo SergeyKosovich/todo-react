@@ -6,12 +6,13 @@
 }
 .item {
   margin-left: 10px;
+  font-size: 30px;
 }
 .item a {
   display: block;
   text-decoration: none;
   color: white;
-  width: 100px;
+  width: 200px;
   text-align: center;
 }
 
