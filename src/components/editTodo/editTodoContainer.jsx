@@ -17,7 +17,6 @@ const EditTodoContainer = () => {
   };
   const editTodo = (e) => {
     e.preventDefault();
-    console.log(e);
     dispatch(editTodoCreator(e.target[1].id, e.target[1].value));
   };
   const openTodoForEdit = (e) => {
